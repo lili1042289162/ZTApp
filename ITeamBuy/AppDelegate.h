@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
-#import "BMapKit.h"
+//#import "BMapKit.h"
 #import "BMKLocationService.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
